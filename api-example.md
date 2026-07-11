@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Widget API lets you create, retrieve, and delete widgets programmatically. All requests require an API key.
+The Widget API lets you create, retrieve and delete widgets programmatically. All requests require an API key.
 
 ## Authentication
 
@@ -62,6 +62,18 @@ curl -X DELETE https://api.example.com/v1/widgets/wdg_001 \
 
 Returns a `204 No Content` on success.
 
+### Retrieve a single widget
+
+**Request**
+
+```bash
+
+```
+
+## Rate Limits
+
+The API is limited to 100 requests per minute.
+
 ## Error handling
 
 | Status code | Meaning |
@@ -70,6 +82,7 @@ Returns a `204 No Content` on success.
 | 401 | Missing or invalid API key |
 | 404 | Widget not found |
 | 429 | Rate limit exceeded |
+
 
 ## Changelog
 
