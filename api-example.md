@@ -86,7 +86,9 @@ The API is limited to 100 requests per minute.
 
 ## Changelog
 
-- [ ] *(Practice task: add a changelog entry here on a new branch, then open a pull request)*
+### Added
+
+- Retrieve endpoint
 
 ---
 
