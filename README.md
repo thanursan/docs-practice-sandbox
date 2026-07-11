@@ -23,8 +23,8 @@ docs-practice-sandbox/
 
 - [x] Repo created
 - [x] README drafted
-- [ ] Example API doc reviewed
-- [ ] First branch + PR practiced
+- [x] Example API doc reviewed
+- [x] First branch + PR practiced
 
 ## Notes
 
